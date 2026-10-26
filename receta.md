@@ -11,7 +11,8 @@
 * 1 Patata
 * Garbanzos (al gusto)
 * 1 Cabeza de ajos
-* 5 Fresas
+* 6 Fresas
+* 15 Palomas de Péru
 ## Preparación
 
 | Ficha Técnica | Detalle |
