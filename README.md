@@ -14,3 +14,6 @@ En él se guardan los ingredientes, las cantidades y los pasos necesarios para p
 
 ## Enlace al repositorio
 [Mi repositorio Receta en GitHub](https://github.com/Agli333/Receta)
+## Modificación desde GitHub
+
+He realizado esta modificación directamente desde la página web de GitHub para practicar la sincronización con Git.
